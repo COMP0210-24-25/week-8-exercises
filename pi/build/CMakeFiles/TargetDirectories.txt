@@ -1,3 +1,0 @@
-/home/mmcleod/COMP0210/week_8_exercises/pi/build/CMakeFiles/pi.dir
-/home/mmcleod/COMP0210/week_8_exercises/pi/build/CMakeFiles/edit_cache.dir
-/home/mmcleod/COMP0210/week_8_exercises/pi/build/CMakeFiles/rebuild_cache.dir
