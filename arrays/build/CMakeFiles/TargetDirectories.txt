@@ -1,0 +1,3 @@
+/home/mmcleod/COMP0210/week_8_exercises/arrays/build/CMakeFiles/array_reduction.dir
+/home/mmcleod/COMP0210/week_8_exercises/arrays/build/CMakeFiles/edit_cache.dir
+/home/mmcleod/COMP0210/week_8_exercises/arrays/build/CMakeFiles/rebuild_cache.dir
