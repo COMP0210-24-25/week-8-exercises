@@ -15,7 +15,6 @@ int main() {
   auto start = high_resolution_clock::now();
 
   double sum = 0.0f;
-  #pragma omp parallel for reduction(+:sum)
   for(int i=0; i<N; ++i) {
     double x = i*dx;
     sum += 4.0f/(1.0f + x*x)*dx;
